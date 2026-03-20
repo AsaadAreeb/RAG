@@ -1,0 +1,16 @@
+.env
+rag/
+storage/app.db/
+storage/chroma/
+storage/uploads/
+ui/node_modules/
+ui/.next/
+backend/_pycache_/
+backend/api/routes/__pycache__/
+backend/core/__pycache__/
+backend/guardrails/__pycache__/
+backend/pipelines/__pycache__/
+backend/services/__pycache__/
+ingestion/_pycache_/
+sql/_pycache_/
+vectorstore/_pycache_/
