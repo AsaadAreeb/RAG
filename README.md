@@ -331,7 +331,3 @@ Some directions to take it further:
 MIT — use it, modify it, build on it.
 
 ---
-
-## Questions
-
-Open an issue or drop a comment on the LinkedIn post.
